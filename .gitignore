@@ -2,9 +2,13 @@
 datasets/*
 experiments/*
 results/*
+outputs/*
+inputs/*
 tb_logger/*
 wandb/*
 tmp/*
+
+gfpgan/weights/*.pth
 
 version.py
 
